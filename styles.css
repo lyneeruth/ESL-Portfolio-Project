@@ -1,3 +1,7 @@
 h1 {
-  color: aquamarine;
+  color: rgb(113, 98, 135);
+  font-family: "Playfair Display", serif;
+}
+p {
+  font-family: "Poppins", sans-serif;
 }
