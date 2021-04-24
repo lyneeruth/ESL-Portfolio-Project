@@ -1,7 +1,26 @@
-h1 {
-  color: rgb(113, 98, 135);
-  font-family: "Playfair Display", serif;
+:root {
+  --primary-color: #f9f7fd;
+  --secondary-color: #6c63ff;
 }
-p {
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 96px;
+  line-height: 128px;
+}
+
+h2 {
   font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-color: var(--primary-color);
+  text-align: center;
+}
+
+.hero p {
+  font-size: 32px;
+  font-weight: bold;
+  padding-top: 100px;
+  margin: 0;
 }
