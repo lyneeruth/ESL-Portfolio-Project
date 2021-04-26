@@ -83,7 +83,7 @@ h2 {
   }
 
   .feature-description {
-    padding: 0;
+    /*padding: 0;*/
     text-align: center;
   }
 }
