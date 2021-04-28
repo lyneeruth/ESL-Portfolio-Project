@@ -31,6 +31,18 @@ h2 {
   text-align: center;
   padding: 100px 0;
 }
+.hero-about {
+  padding: 160px 20px;
+}
+
+.hero-about h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.hero-about h2 {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+}
 
 .hero p {
   font-family: "Poppins", sans-serif;
