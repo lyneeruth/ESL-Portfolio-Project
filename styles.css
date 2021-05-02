@@ -30,7 +30,7 @@ img {
   border-radius: 20px;
 }
 
-.about-section-content {
+.container-content {
   margin: 30px;
 }
 
@@ -39,15 +39,15 @@ img {
   text-align: center;
   padding: 100px 0;
 }
-.hero-about {
+.hero-container {
   padding: 160px 20px;
 }
 
-.hero-about h1 {
+.hero-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
-.hero-about h2 {
+.hero-container h2 {
   font-size: 18px;
   font-family: "Poppins", sans-serif;
 }
@@ -107,7 +107,7 @@ img {
     text-align: center;
   }
 
-  .hero-about {
+  .hero-container {
     text-align: center;
     padding: 0;
   }
