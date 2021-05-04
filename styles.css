@@ -40,9 +40,11 @@ nav a {
   transition: all 100ms ease-in-out;
 }
 
-nav a:hover {
+nav a:hover,
+nav a.active {
   color: var(--branding-color);
 }
+
 nav ul {
   margin: 0;
   padding: 0;
