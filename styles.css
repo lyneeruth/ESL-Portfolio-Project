@@ -30,6 +30,26 @@ img {
   border-radius: 20px;
 }
 
+nav {
+  padding: 5px 0;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 100px;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  max-width: 150px;
+}
+
 .container-content {
   margin: 30px;
 }
