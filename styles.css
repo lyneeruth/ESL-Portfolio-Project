@@ -34,6 +34,15 @@ nav {
   padding: 5px 0;
 }
 
+nav a {
+  text-decoration: none;
+  color: #272142;
+  transition: all 100ms ease-in-out;
+}
+
+nav a:hover {
+  color: var(--branding-color);
+}
 nav ul {
   margin: 0;
   padding: 0;
@@ -44,6 +53,7 @@ nav li {
   list-style: none;
   line-height: 100px;
   font-family: "Poppins", sans-serif;
+  margin-left: 20px;
 }
 
 .logo {
