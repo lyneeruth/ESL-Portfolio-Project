@@ -28,7 +28,7 @@ h2 {
   color: #272142;
   margin-top: 20px;
 }
-h4 {
+h3 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 48px;
@@ -182,6 +182,7 @@ nav li {
   }
   h2 {
     font-size: 42px;
+    padding: 0 10px;
   }
 
   nav {
